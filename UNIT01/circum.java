@@ -7,7 +7,7 @@ class circum{
 		ans=3.14*r*r;
 		System.out.println("Area of circle: "+ans);
 	}
-	void circum()
+	void circum1()
 	{
 		double ans;
 		ans=2*3.14*r;
@@ -15,8 +15,8 @@ class circum{
 	}
 	public static void main(String args[])
 	{
-		p10 p=new p10();
+		circum p=new circum();
         p.area();
-		p.circum();
+		p.circum1();
     }
 }
