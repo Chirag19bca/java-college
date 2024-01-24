@@ -24,8 +24,8 @@ class print extends data
 	{
 		System.out.println("Rollno: "+rollno);
 		System.out.println("Name of student: "+name);
-		System.out.println("Subject3: "+sub3);
-		System.out.println("Subject3: "+sub3);
+		System.out.println("Subject1: "+sub1);
+		System.out.println("Subject2: "+sub2);
 		System.out.println("Subject3: "+sub3);
 		System.out.println("Total of 3 subjects: "+total);
 		System.out.println("percentage: "+percentage);
