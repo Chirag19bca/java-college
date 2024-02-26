@@ -6,7 +6,7 @@ class validatestring extends Exception
 	}
 }
 
-class U3P6
+class u3p6
 {
 	public static void main(String args[])
 	{
@@ -15,7 +15,7 @@ class U3P6
 		int flag=0;
 		try
 		{
-			if(s.length()>=5)
+			if(s.length()<=5)
 			{
 				for(int i=0 ; i<s.length(); i++)
 				{
