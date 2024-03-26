@@ -1,5 +1,6 @@
 import java.util.*;
-class U2P3{
+class U2P3
+{
 	public static void main(String args[])
 	{
 		int m,n,c,d;

@@ -6,7 +6,7 @@ class validatestring extends Exception
 	}
 }
 
-class u3p6
+class U3P6
 {
 	public static void main(String args[])
 	{

@@ -11,7 +11,7 @@ class result implements exam,classify
 {
 	public boolean pass(int mark)
 	{
-		if(mark>=50)
+		if(mark>=35)
 		{
 			return true;
 		}

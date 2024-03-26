@@ -1,4 +1,5 @@
-class U2P1{
+class U2P1
+{
 	public static void main(String args[])
 	{
 		int i,j,n,temp;
